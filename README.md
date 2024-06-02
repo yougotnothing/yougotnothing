@@ -1,4 +1,4 @@
-## Hello, i'm a *Front-end developer* from *Ukraine*, i love make web applications, and play video games, this is *my skills*:
+# Frontend/Mobile developer
 
 ---
 ### 🈯 🇱*anguages*:
