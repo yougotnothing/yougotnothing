@@ -13,6 +13,6 @@
 ---
 
 ### 📊 🇸*tatistic*:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yougotnothing&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=yougotnothing)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
