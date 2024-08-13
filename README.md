@@ -13,6 +13,6 @@
 ---
 
 ### 📊 🇸*tatistic*:
-[![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=yougotnothing)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=effulgence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
