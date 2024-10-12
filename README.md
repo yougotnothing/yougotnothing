@@ -1,7 +1,7 @@
 # fullstack *web + mobile* developer
 
 ## *Navigation:* 
-<a href="#frontend">Frontend skills</a> <a href="#backend">Backend skills</a> <a href="#stats">Stats</a> <a href="#languages">Languages</a>
+<a href="#frontend">Frontend skills</a> <a href="#backend">Backend skills</a> <a href="#stats">Stats</a> <a href="#languages">Languages</a> <a href="#mobile">Mobile</a>
 
 <br id="stats">
 
@@ -22,3 +22,10 @@
 
 - ## Languages:
 - [![Languages](https://skillicons.dev/icons?i=typescript,javascript)](https://skillicons.dev)
+
+<br id="mobile">
+
+- ## Mobile:
+- expo
+- react navigation (native)
+- react native reanimated
