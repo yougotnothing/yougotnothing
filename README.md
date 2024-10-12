@@ -11,7 +11,7 @@
 <br id="frontend">
 
 - ## Frontend:
-- [![Frontend Skills](https://skillicons.dev/icons?i=react,webpack,threejs,apollo,css,html,svelte,styledcomponents,sass)](https://skillicons.dev)
+- [![Frontend Skills](https://skillicons.dev/icons?i=react,webpack,threejs,vite,apollo,css,html,svelte,styledcomponents,sass)](https://skillicons.dev)
 
 <br id="backend">
 
