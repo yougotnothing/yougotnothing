@@ -5,27 +5,27 @@
 
 <br id="stats">
 
-- ## Stats
+## Stats
 - [![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=effulgence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br id="frontend">
 
-- ## Frontend:
+## Frontend:
 - [![Frontend Skills](https://skillicons.dev/icons?i=react,webpack,threejs,vite,apollo,css,html,svelte,styledcomponents,sass)](https://skillicons.dev)
 
 <br id="backend">
 
-- ## Backend:
+## Backend:
 - [![Backend Skills](https://skillicons.dev/icons?i=nestjs,postgres,graphql,prisma,docker)](https://skillicons.dev)
 
 <br id="languages">
 
-- ## Languages:
+## Languages:
 - [![Languages](https://skillicons.dev/icons?i=typescript,javascript)](https://skillicons.dev)
 
 <br id="mobile">
 
-- ## Mobile:
+## Mobile:
 - expo
 - react navigation (native)
 - react native reanimated
