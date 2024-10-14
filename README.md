@@ -1,6 +1,5 @@
 # fullstack *web + mobile* developer
 
-## **Navigation:**
 ### ***[Frontend](#frontend)*** ***[Backend](#backend)*** ***[Stats](#stats)*** ***[Languages](#languages)*** ***[Mobile](#mobile)***
 
 <br id="stats">
