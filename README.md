@@ -11,9 +11,7 @@
 [![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=effulgence&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yougotnothing&repo=portfolio&theme=github_dark_dimmed)](https://github.com/yougotnothing/portfolio)
-[![inspace](https://github-readme-stats.vercel.app/api/pin/?username=yougotnothing&repo=inspace&theme=github_dark_dimmed)](https://github.com/yougotnothing/inspace)
 [![nestjs todo api](https://github-readme-stats.vercel.app/api/pin/?username=yougotnothing&repo=nestjs-todo-api&theme=github_dark_dimmed)](https://github.com/yougotnothing/nestjs-todo-api)
-[![todo app react native](https://github-readme-stats.vercel.app/api/pin/?username=yougotnothing&repo=todo-app-react-native&theme=github_dark_dimmed)](https://github.com/yougotnothing/todo-app-react-native)
 
 <br id="frontend">
 
